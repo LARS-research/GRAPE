@@ -2,7 +2,7 @@
 
 This repository holds an implementation of [Automorphic Equivalence-aware Graph Neural Network](https://arxiv.org/abs/2011.04218). 
 
-![alt text](https://github.com/tsinghua-fib-lab/GRAPE/blob/main/main.png?raw=true)
+![alt text](https://github.com/AutoML-Research/GRAPE/blob/main/main.png?raw=true)
 
 ## Dependencies
 
