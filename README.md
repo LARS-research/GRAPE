@@ -1,6 +1,6 @@
 # Automorphic Equivalence-aware Graph Neural Network
 
-This repository holds an implementation of [Automorphic Equivalence-aware Graph Neural Network](https://arxiv.org/abs/2011.04218). 
+This repository holds an implementation of [Automorphic Equivalence-aware Graph Neural Network](https://arxiv.org/abs/2011.04218) NeurIPS 2021. 
 
 ![alt text](https://github.com/AutoML-Research/GRAPE/blob/main/main.png?raw=true)
 
